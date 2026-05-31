@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsalidate",
+        "uuid": 13320900,
+        "checksum": "0tdmdd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
